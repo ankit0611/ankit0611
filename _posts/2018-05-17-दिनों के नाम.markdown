@@ -6,13 +6,12 @@ categories:
 ---
 इस पोस्ट में हम लोग दिनों के नाम का अभ्यास करेंगे.
 
-| English   | German     | Pronunciation |
-| --------- | ---------- | ------------- |
-| Monday    | Montag     | मोन्टाग        |
-| Tuesday   | Dienstag   | डीन्स्टाग       |
-| Wednesday | Mittwoch   | मिटवोख़        |
-| Thursday  | Donnerstag | डोनर्सटाग      |
-| Friday    | Freitag    | फ्राईटाग       |
-| Saturday  | Samstag    | ज़ाम्सटाग       |
-| Sunday    | Sonntag    | ज़ोनटाग        |
-
+| English   | German     | Pronunciation | हिंदी   |
+| --------- | ---------- | ------------- | ------ |
+| Monday    | Montag     | मोन्टाग        | सोमवार |
+| Tuesday   | Dienstag   | डीन्स्टाग       | मंगलवार |
+| Wednesday | Mittwoch   | मिटवोख़        | बुधवार  |
+| Thursday  | Donnerstag | डोनर्सटाग      | गुरुवार  |
+| Friday    | Freitag    | फ्राईटाग       | शुक्रवार |
+| Saturday  | Samstag    | ज़ाम्सटाग       | शनिवार |
+| Sunday    | Sonntag    | ज़ोनटाग        | रविवार |
