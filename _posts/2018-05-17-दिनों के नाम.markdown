@@ -1,0 +1,18 @@
+---
+layout: post
+title: "दिनों के नाम"
+date: 2018-05-17
+categories:
+---
+इस पोस्ट में हम लोग दिनों के नाम का अभ्यास करेंगे.
+
+| English   | German     | Pronunciation |
+| --------- | ---------- | ------------- |
+| Monday    | Montag     | मोन्टाग        |
+| Tuesday   | Dienstag   | डीन्स्टाग       |
+| Wednesday | Mittwoch   | मिटवोख़        |
+| Thursday  | Donnerstag | डोनर्सटाग      |
+| Friday    | Freitag    | फ्राईटाग       |
+| Saturday  | Samstag    | ज़ाम्सटाग       |
+| Sunday    | Sonntag    | ज़ोनटाग        |
+
