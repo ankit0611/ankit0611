@@ -7,8 +7,10 @@ categories:
 
 ## शरीर के अंग
 
+इस पोस्ट में हम लोग शरीर के अंगों के नाम का अभ्यास करेंगे.
+
 | English             | German            | हिंदी       | Pronunciation   |
-| ------------------- | ----------------- | ---------- | --------------- |
+| ------------------- | ----------------- | :--------- | :-------------- |
 | body                | der Körper        | शरीर       | देयर क्योर्पेर      |
 | head                | der Kopf          | सिर        | देयर कोप्फ़        |
 | torso / trunk       | der Rumpf         | धड़         | देयर ह्रुम्फ़        |
@@ -35,7 +37,7 @@ categories:
 | abdomen / belly     | der Bauch         | पेट         | देयर बाउख        |
 | navel               | der Bauchnabel    | नाभि       | देयर बाउखनाबेल    |
 | vagina              | die Scheide       | योनि       | दी शाइडे         |
-| penis               | das Glied         | शिश्न       | दस ग्लाइड        |
+| penis               | das Glied         | शिश्न       | दस ग्लीड         |
 | testicle            | der Hoden         | वृषण        | देयर होडेन        |
 | anus                | der After         | गुदा        | देयर आफ़्टर        |
 | back                | der Rücken        | पीठ        | देयर र्युकेन        |
