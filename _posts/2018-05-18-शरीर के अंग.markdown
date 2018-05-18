@@ -1,0 +1,68 @@
+---
+layout: post
+title: "शरीर के अंग"
+date: 2018-05-18
+categories:
+---
+
+## शरीर के अंग
+
+| English             | German            | हिंदी       | Pronunciation   |
+| ------------------- | ----------------- | ---------- | --------------- |
+| body                | der Körper        | शरीर       | देयर क्योर्पेर      |
+| head                | der Kopf          | सिर        | देयर कोप्फ़        |
+| torso / trunk       | der Rumpf         | धड़         | देयर ह्रुम्फ़        |
+| arm                 | der Arm           | बाजू        | देयर आर्म         |
+| leg                 | das Bein          | पैर         | दस बाइन         |
+| face                | das Gesicht       | चेहरा       | दस गेज़िष्ट        |
+| chin                | das Kinn          | ठोड़ी       | दस किन          |
+| mouth               | der Mund          | मुंह         | देयर मुंड          |
+| lip                 | die Lippe         | ओंठ         | दी लिप्पे         |
+| tooth               | der Zahn          | दांत        | देयर त्जाह्न       |
+| tongue              | die Zunge         | जीभ        | दी त्सुंगे          |
+| nose                | die Nase          | नाक        | दी नाज़े          |
+| cheek               | die Wange         | गाल        | दी वांगे          |
+| eye                 | das Auge          | आँख         | दस आउगे          |
+| eyebrow             | die Augenbraue    | भौं         | दी आउगेनब्राउएन   |
+| eyelash             | die Wimper        | बरौनी      | दी विम्फ़र        |
+| ear                 | das Ohr           | कान        | दस ओह्र          |
+| hair                | das Haar          | बाल        | दस हार          |
+| beard               | der Bart          | दाढ़ी       | देयर बार्ट        |
+| mustache            | der Schnurrbart   | मूंछ         | देयर श्नूर्बार्ट     |
+| neck                | der Hals          | गला        | देयर हाल्स        |
+| shoulder            | die Schulter      | कंधा        | दी शुल्टैर         |
+| chest               | die Brust         | सीना       | दी ब्रुष्ट         |
+| abdomen / belly     | der Bauch         | पेट         | देयर बाउख        |
+| navel               | der Bauchnabel    | नाभि       | देयर बाउखनाबेल    |
+| vagina              | die Scheide       | योनि       | दी शाइडे         |
+| penis               | das Glied         | शिश्न       | दस ग्लाइड        |
+| testicle            | der Hoden         | वृषण        | देयर होडेन        |
+| anus                | der After         | गुदा        | देयर आफ़्टर        |
+| back                | der Rücken        | पीठ        | देयर र्युकेन        |
+| hip                 | die Hüfte         | पुष्ट        | दी ह्युफ्टे         |
+| elbow               | der Ellenbogen    | कुहनी       | देयर एलेनबोगेन     |
+| hand                | die Hand          | हाँथ        | दी हांड          |
+| finger              | der Finger        | ऊँगली       | देयर फिन्गेर       |
+| armpit              | die Achsel        | कांख        | दी आख्सेल         |
+| nail                | der Nagel         | नाख़ून       | देयर नागेल        |
+| thumb               | der Daumen        | अंगूठा       | देयर दामेन        |
+| index finger        | der Zeigefinger   | तर्जनी      | देयर त्साइगे फिन्गेर |
+| middle finger       | der Mittelfinger  | मध्यमा      | देयर मिटेल फिन्गेर  |
+| ring finger         | der Ringfinger    | अनामिका    | देयर रिंग फिन्गेर   |
+| pinky               | der kleine Finger | कनिष्ठिका   | देयर क्लाइने फिन्गेर |
+| knee                | das Knie          | घुटना       | दस क्नी          |
+| foot                | der Fuß           | पैर         | देयर फ़ुस          |
+| toe                 | der Zeh           | पैर कि ऊँगली | देयर त्सेह         |
+| blood               | das Blut          | खून         | दस ब्लूट          |
+| the small intestine | der Dünndarm      | छोटी आंत    | देयर ड्यून डार्म    |
+| the large intestine | der Dickdarm      | बड़ी आंत     | देयर डिक डार्म    |
+| brain               | das Gehirn        | दिमाग      | दस गेहिर्न        |
+| skin                | die Haut          | त्वचा       | दी हाउट         |
+| heart               | das Herz          | दिल        | दस हेर्त्स         |
+| liver               | die Leber         | लीवर       | दी लेबेर          |
+| lung                | die Lunge         | फेफड़ा       | दी लुंगे           |
+| spleen              | die Milz          | तिल्ली      | दी मिल्त्स        |
+| stomach             | der Magen         | पेट         | देयर मागेन        |
+| muscle              | der Muskel        | मांसपेशी     | देयर मुस्केल        |
+| kidney              | die Niere         | गुर्दा       | दी नियरे         |
+| skeleton            | das Skelett       | कंकाल       | दस श्केलेट         |
