@@ -1,0 +1,21 @@
+---
+layout: post
+title: "रंगों के नाम"
+date: 2018-05-22
+categories:
+---
+इस पोस्ट में हम लोग रंगों के नाम का अभ्यास करेंगे.
+
+| English | German  | हिंदी  | Pronunciation |
+| ------- | ------- | ----- | ------------- |
+| black   | schwarz | काला  | श्वार्त्स        |
+| white   | weiß    | सफ़ेद   | वाइस          |
+| gray    | grau    | धूसर   | ग्राऊ          |
+| red     | rot     | लाल   | रोट           |
+| blue    | blau    | नीला  | ब्लाऊ          |
+| yellow  | gelb    | पीला  | गेल्प           |
+| green   | grün    | हरा   | ग्र्युन          |
+| orange  | orange  | नारंगी | ओरान्जे         |
+| purple  | lila    | बैंगनी  | लीला          |
+| pink    | rosa    | गुलाबी | रोज़ा          |
+| brown   | braun   | भूरा   | ब्राउन/        |
